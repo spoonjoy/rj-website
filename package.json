@@ -73,7 +73,7 @@
     "react-transition-group": "^1.2.1",
     "react-with-forwarded-ref": "^0.3.2",
     "responsive-loader": "^1.2.0",
-    "sharp": "^0.25.4",
+    "sharp": "^0.30.5",
     "subscriptions-transport-ws": "^0.9.17",
     "tailwindcss-filters": "^3.0.0",
     "uuid": "^8.3.0"
