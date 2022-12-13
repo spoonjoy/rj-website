@@ -39,7 +39,7 @@
     "apollo-upload-client": "^14.1.1",
     "cssnano": "^4.1.10",
     "detect-browser": "^5.1.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "graphql": "^14.7.0",
     "graphql-ruby-client": "^1.7.11",
     "heroku-ssl-redirect": "0.0.4",
